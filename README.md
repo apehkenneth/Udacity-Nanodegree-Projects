@@ -1,4 +1,7 @@
-# Project 1: Explore Weather Trends
+# Udacity Data Analyst Nanodegree
+
+
+## Project 1: Explore Weather Trends
 The first chapter was an introduction to the following projects of the Data Analyst Nanodegree.
 
 > First chapter project was about weather trends - it required to apply (atleast) the following steps:
@@ -19,9 +22,9 @@ I analyzed local and global temperature data and compared the temperature trends
 
 
 
-# Project 2: TMDb Movie Data Analysis
+## Project 2: TMDb Movie Data Analysis
 
-## Introduction
+### Introduction
 The movie companies are important for the development and promotion of a country, in its financial and moral sector. Hence, this project is going to explore a dataset from Kaggle website, which contains about 10,000 movies collected from The Movie Database (TMDb), across 56 years with 21 variables including user ratings and revenue.
 
 > Some questions of interest that are going to be analyzed from this dataset are grouped into two sections:
@@ -38,10 +41,10 @@ Question 3. Are movies cast by the top cast more popular?
 
 
 
-# Project 3: Analyze A/B Test Results
+## Project 3: Analyze A/B Test Results
 This project will assure you have mastered the subjects covered in the statistics lessons. The hope is to have this project
 be as comprehensive of these topics as possible. Good luck!
 
-## Introduction
+### Introduction
 > A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website. Your goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
